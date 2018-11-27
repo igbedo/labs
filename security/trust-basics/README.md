@@ -155,4 +155,4 @@ The following commands will clean-up the artifacts from this lab.
    $ export DOCKER_CONTENT_TRUST=
    ```
 
-4. Login to Docker Cloud > Locate the repository you created with the `docker image push` command > Click Settings > Delete the repository.
+
