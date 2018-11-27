@@ -6,10 +6,7 @@ This directory contains tutorials on how to take advantage of a non-exhaustive c
 * [Content Trust](trust/README.md)
 * [Content Trust Basics](trust-basics/README.md)
 * [Secrets Management](secrets/README.md)
-* [Secrets Management with Docker Datacenter](secrets-ddc/README.md)
-* [Secure Networking Basics](networking/README.md)
 * [Security Scanning](scanning/README.md)
-* [Swarm Mode Security Basics](swarm/README.md)
 
 ## Linux
 * [AppArmor](apparmor/README.md)
